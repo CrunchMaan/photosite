@@ -32,7 +32,7 @@ export function TopNavigation() {
 
             <Link
 
-              href="https://instagram.com"
+              href="https://www.instagram.com/aakrasov/"
 
               target="_blank"
 
@@ -50,7 +50,7 @@ export function TopNavigation() {
 
             <Link
 
-              href="mailto:andrey@example.com"
+              href="mailto:aakrasov@gmail.com"
 
               className="text-muted-foreground hover:text-foreground transition-colors duration-200"
 
