@@ -20,7 +20,7 @@ export function TopNavigation() {
 
             <h1 className="text-2xl font-serif font-bold text-foreground tracking-tight">Andrey Krasov</h1>
 
-            <p className="text-sm text-muted-foreground font-light">Modern Photograph</p>
+            <p className="text-sm text-muted-foreground font-light">Contemporary Photographer</p>
 
           </div>
 
